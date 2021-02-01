@@ -1,0 +1,162 @@
+
+ .navbar{
+    background-color:burlywood;
+    margin-top:-47px;  
+   
+}
+
+label.logo{
+    color: cornsilk;
+    font-size: 30px;
+    padding: 0px;
+    font-weight:bold;
+    font-style: oblique;
+}
+
+.container{
+    height: 300px;
+    width: 800px;
+    background: paleturquoise;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+   
+}
+
+.sat{
+    color: black;
+    text-align:left;
+    font-size:18px;
+    margin:80;
+    padding:90;
+    background-size: cover;
+    background-position: center;
+}
+
+.box{
+    height: 75vh;
+    width: 360px;
+    background: paleturquoise;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%); 
+}
+
+.detail{
+    color:blue;
+    text-align:center;
+    font-size:18px;
+    margin:80;
+    padding:90;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.s{
+    color: black;
+    text-align:left;
+    font-size:18px;
+    margin:100;
+    padding:110;
+    background-size: cover;
+    background-position: center;
+    padding-left: 20px;
+}
+
+.form-group{
+    width:100px;
+    margin-top: 20px;
+    font-size: 11px;
+    color: black;
+    padding: 10px;
+}
+
+.form-group input,
+.form-group textarea{
+    width: 330%;
+    padding: 4px;
+    font-size: 10px;
+    margin-top: 2px;
+    
+}
+
+textarea{
+    scroll-behavior: auto;
+    resize: vertical;
+ }
+
+ 
+.admin{
+    height: 30vh;
+    width: 360px;
+    background: thistle;
+    position: absolute;
+    top:40%;
+    left: 50%;
+    transform: translate(-50%,-50%); 
+
+}
+
+.search{
+    font-size:20px;
+    font-weight: bold;
+    color:blue;
+}
+
+.form{
+    height: 20vh;
+    width: 300px;
+    background: silver;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%); 
+}
+
+.id{
+    height: 20vh;
+    width: 300px;
+    background: silver;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);  
+}
+
+.delete{
+    font-size:20px;
+    font-weight: bold;
+    color:blue; 
+}
+
+.reg{
+   
+    height: 625px;
+    width: 360px;
+    background:paleturquoise;
+    position: absolute;
+    padding: 15px;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%); 
+}
+
+.log{
+    height: 30vh;
+    width: 360px;
+    background: paleturquoise;
+    position: absolute;
+    top:40%;
+    left: 50%;
+    transform: translate(-50%,-50%); 
+}
+
+.user{
+    font-size:25px;
+    color:blue;
+    font-weight: bold;
+}
